@@ -1,2 +1,2 @@
 # _Memoire_
-Repository abritant mon travail pour mon mémoire d'ingénieur.
+Repository abritant une partie du travail pour mon mémoire d'ingénieur.
